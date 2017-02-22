@@ -1,5 +1,3 @@
-'''Fauzi, fauzi@soovii.com'''
-
 This App is simple format backend.
 
 1. Create database
